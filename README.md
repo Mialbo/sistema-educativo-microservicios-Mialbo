@@ -19,7 +19,6 @@ El sistema está dividido en los siguientes microservicios:
 - `usuarios-servicio`: Gestiona estudiantes y docentes.
 - `asignaturas-servicio`: CRUD de materias.
 - `matriculas-servicio`: Registra estudiantes en materias.
-- `config-server`: Servidor central de configuración.
 - `eureka-server`: Descubrimiento de servicios.
 
 Cada microservicio tiene su propia base de datos, configuración, pruebas y despliegue.
