@@ -1,0 +1,8 @@
+com\sistemaeducativo\usuarios\servicio\UsuarioServicio.class
+com\sistemaeducativo\usuarios\config\RestTemplateConfig.class
+com\sistemaeducativo\usuarios\controlador\UsuarioControlador.class
+com\sistemaeducativo\usuarios\UsuariosServicioApplication.class
+com\sistemaeducativo\usuarios\controlador\AsignaturaProxyController.class
+com\sistemaeducativo\usuarios\modelo\Usuario.class
+com\sistemaeducativo\usuarios\repositorio\UsuarioRepositorio.class
+com\sistemaeducativo\usuarios\servicio\AsignaturaClientService.class
