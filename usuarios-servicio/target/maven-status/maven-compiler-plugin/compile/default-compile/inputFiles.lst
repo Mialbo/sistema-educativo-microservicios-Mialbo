@@ -1,8 +1,8 @@
-C:\Users\Alexis Bolaños\Documents\Lenguaje de programacion avanzado 2\#2\usuarios-servicio\src\main\java\com\sistemaeducativo\usuarios\modelo\Usuario.java
-C:\Users\Alexis Bolaños\Documents\Lenguaje de programacion avanzado 2\#2\usuarios-servicio\src\main\java\com\sistemaeducativo\usuarios\UsuariosServicioApplication.java
-C:\Users\Alexis Bolaños\Documents\Lenguaje de programacion avanzado 2\#2\usuarios-servicio\src\main\java\com\sistemaeducativo\usuarios\controlador\AsignaturaProxyController.java
-C:\Users\Alexis Bolaños\Documents\Lenguaje de programacion avanzado 2\#2\usuarios-servicio\src\main\java\com\sistemaeducativo\usuarios\controlador\UsuarioControlador.java
-C:\Users\Alexis Bolaños\Documents\Lenguaje de programacion avanzado 2\#2\usuarios-servicio\src\main\java\com\sistemaeducativo\usuarios\servicio\UsuarioServicio.java
-C:\Users\Alexis Bolaños\Documents\Lenguaje de programacion avanzado 2\#2\usuarios-servicio\src\main\java\com\sistemaeducativo\usuarios\config\RestTemplateConfig.java
-C:\Users\Alexis Bolaños\Documents\Lenguaje de programacion avanzado 2\#2\usuarios-servicio\src\main\java\com\sistemaeducativo\usuarios\repositorio\UsuarioRepositorio.java
-C:\Users\Alexis Bolaños\Documents\Lenguaje de programacion avanzado 2\#2\usuarios-servicio\src\main\java\com\sistemaeducativo\usuarios\servicio\AsignaturaClientService.java
+C:\Users\Alexis Bolaños\Documents\Lenguaje de programacion avanzado 2\sistema-educativo-microservicios-Mialbo\usuarios-servicio\src\main\java\com\sistemaeducativo\usuarios\servicio\AsignaturaClientService.java
+C:\Users\Alexis Bolaños\Documents\Lenguaje de programacion avanzado 2\sistema-educativo-microservicios-Mialbo\usuarios-servicio\src\main\java\com\sistemaeducativo\usuarios\controlador\UsuarioControlador.java
+C:\Users\Alexis Bolaños\Documents\Lenguaje de programacion avanzado 2\sistema-educativo-microservicios-Mialbo\usuarios-servicio\src\main\java\com\sistemaeducativo\usuarios\modelo\Usuario.java
+C:\Users\Alexis Bolaños\Documents\Lenguaje de programacion avanzado 2\sistema-educativo-microservicios-Mialbo\usuarios-servicio\src\main\java\com\sistemaeducativo\usuarios\repositorio\UsuarioRepositorio.java
+C:\Users\Alexis Bolaños\Documents\Lenguaje de programacion avanzado 2\sistema-educativo-microservicios-Mialbo\usuarios-servicio\src\main\java\com\sistemaeducativo\usuarios\config\RestTemplateConfig.java
+C:\Users\Alexis Bolaños\Documents\Lenguaje de programacion avanzado 2\sistema-educativo-microservicios-Mialbo\usuarios-servicio\src\main\java\com\sistemaeducativo\usuarios\controlador\AsignaturaProxyController.java
+C:\Users\Alexis Bolaños\Documents\Lenguaje de programacion avanzado 2\sistema-educativo-microservicios-Mialbo\usuarios-servicio\src\main\java\com\sistemaeducativo\usuarios\UsuariosServicioApplication.java
+C:\Users\Alexis Bolaños\Documents\Lenguaje de programacion avanzado 2\sistema-educativo-microservicios-Mialbo\usuarios-servicio\src\main\java\com\sistemaeducativo\usuarios\servicio\UsuarioServicio.java
